@@ -53,7 +53,7 @@ The experimental pipeline in `Experiment_Pipeline/` illustrates the complete "Di
 
 ## Dataset & Raw Acoustic Recordings Download
 
-Due to GitHub's file size limits for high-resolution, multi-channel audio, the complete set of raw acoustic recordings and the original dataset have been hosted externally. 
+Due to GitHub's file size limits for high-resolution, the complete set of raw acoustic recordings has been hosted externally. 
 
 **[Download the Complete Experimental Data Here] https://drive.google.com/file/d/16aGko-q0xxtIWQK3i7W1ZaE04hw0dGia/view?usp=drive_link**
 
